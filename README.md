@@ -5,13 +5,13 @@
 </h1>
 <img src="https://user-images.githubusercontent.com/114238252/202191317-23b10a18-e915-4aa8-bc12-c1572703779f.png">
 
-<h4>
+<h3>
   <br>
-  <h3><b> 조원과 개인 깃허브 </b></h3>
+  ## <h2><b> 조원과 개인 깃허브 </b></h2>
 <a href="https://github.com/yjk101" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 고영진</b>20221669<br>
 <a href="https://github.com/jxh61431" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이주현</b>20222593<br>
 <a href="https://github.com/songchane" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이찬송</b>20221665<br>
-</h4> 
+</h3> 
   <br>
   
 

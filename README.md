@@ -1,8 +1,9 @@
 <div align="center">
 
-<h1>Hi there ! 👋</h1>
-<p> 오픈소스소프트웨어 QB반 4조의 깃허브입니다
-
+<h1>Hi there ! 👋
+  <h3> 오픈소스소프트웨어 QB반 4조의 깃허브입니다 </h3>
+</h1>
+<img src="https://user-images.githubusercontent.com/114238252/202191133-d8897b29-4ce3-44d6-8d3c-cc7468b59682.png">
 
 <h4>
   <br>

@@ -11,9 +11,6 @@
 </h3> 
   <br>
   <br>
-
-<img src="https://user-images.githubusercontent.com/114238252/202191317-23b10a18-e915-4aa8-bc12-c1572703779f.png">
- <br>
   
   
 <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" height="28" width="150"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776ab"/>

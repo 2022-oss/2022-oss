@@ -1,7 +1,7 @@
 <div align="center">
 ### Hi there 👋
 
-<!--
+
 **2022-oss/2022-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 </div>

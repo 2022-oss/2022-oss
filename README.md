@@ -1,14 +1,18 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9BCF5,100:CEECF5&height=200&width=auto&section=header&text=Hi%20there%20!&fontSize=60&fontColor=ffffff" />
-<h3> 오픈소스소프트웨어 QB반 4조의 깃허브입니다 </h3>
-
-<h3>
+<h3> ⋆⁺₊⋆⁺₊⋆
   <br>
-  ## <h2><b> 조원과 개인 깃허브 </b></h2>
+  <br>
+  오픈소스소프트웨어 QB반 4조의 깃허브입니다 </h3>
+
+<h4>
+  <br>
+  ✨ ☁ ✨
+  <h3> <b> 조원과 개인 깃허브 </b> </h3> <br>
 <a href="https://github.com/yjk101" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 고영진</b>20221669<br>
 <a href="https://github.com/jxh61431" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이주현</b>20222593<br>
 <a href="https://github.com/songchane" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이찬송</b>20221665<br>
-</h3> 
+</h4> 
   <br>
   <br>
   

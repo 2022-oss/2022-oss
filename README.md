@@ -1,13 +1,17 @@
 <div align="center">
 
-<h1>Hi there 👋</h1>
-  
+<h1>Hi there ! 👋</h1>
+<p> 오픈소스소프트웨어 QB반 4조의 깃허브입니다
+
 
 <h4>
+  <br>
+  <h3><b> 조원과 개인 깃허브 </b></h3>
 <a href="https://github.com/yjk101" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 고영진</b>20221669<br>
 <a href="https://github.com/jxh61431" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이주현</b>20222593<br>
 <a href="https://github.com/songchane" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이찬송</b>20221665<br>
-</h4>  
+</h4> 
+  <br>
   
 
 

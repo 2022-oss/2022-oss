@@ -1,9 +1,10 @@
+<div align="center">
 
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
 
 
-<img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=Python&logoColor=3776ab"/> <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776ab"/>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2022-oss&show_icons=true&theme=graywhite)
 
@@ -20,3 +21,5 @@
 😄 Pronouns: ...
 ⚡ Fun fact: ...
 -->
+
+  </div>

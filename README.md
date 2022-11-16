@@ -3,7 +3,7 @@
 
 
 
-<img src="https://img.shields.io/badge/{git}-{red}?style={flat}&logo={Git}&logoColor={F05032}"/>
+<img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=Python&logoColor=3776ab"/> <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git&logoColor=F05032"/>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2022-oss&show_icons=true&theme=graywhite)
 

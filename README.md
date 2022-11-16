@@ -3,11 +3,11 @@
 <h1>Hi there 👋</h1>
   
 
-
-<b>고영진</b>20221669<br>
-<b>이주현</b>20222593<br>
-<b>이찬송</b>20221665<br>
-  
+<h4>
+<a href="https://github.com/yjk101" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 고영진</b>20221669<br>
+<a href="https://github.com/jxh61431" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이주현</b>20222593<br>
+<a href="https://github.com/songchane" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a><b> 이찬송</b>20221665<br>
+</h4>  
   
 
 

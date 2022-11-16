@@ -19,7 +19,7 @@
 
 
 
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A9BCF5,100:CEECF5)
 <!-- 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
